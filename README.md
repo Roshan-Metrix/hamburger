@@ -52,7 +52,7 @@ Step-by-step instructions to set up the project locally:
 
 ## Live-Page
 
-      [Live](https://roshan-metrix.github.io/hamburger/)
+  [Live](https://roshan-metrix.github.io/hamburger/)
 
 ## License
 
